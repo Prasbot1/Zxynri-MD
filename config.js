@@ -5,26 +5,26 @@
 // RECODE BY ZIFABOTZ
 
 //=============『 Utama 』================== //
-global.owner = ['6285828377610'] //ganti pakai nomormu biar bot berfungsi
-global.mods = ['6285828764046'] //ganti pakai nomormu biar bot berfungsi
-global.prems = ['6285828377610'] //ganti pakai nomormu biar bot berfungsi
+global.owner = ['6289666747744'] //ganti pakai nomormu biar bot berfungsi
+global.mods = ['6289666747744'] //ganti pakai nomormu biar bot berfungsi
+global.prems = ['6289666747744'] //ganti pakai nomormu biar bot berfungsi
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ᴹᴿ᭄ ZifaOffcོ_1ঔৣ꧂'
-global.numberowner = '6285828377610' //ganti pakai nomor mu
+global.nameowner = 'Prasz×_×'
+global.numberowner = '6289666747744' //ganti pakai nomor mu
 global.instagram = 'https://instagram.com/zalfapontianak' //ganti pakai Instagram mu
-global.github = 'https://github.com/Botynyakamu' //ganti aja pakai githubmu
+global.github = 'https://github.com/Prasbot1' //ganti aja pakai githubmu
 global.tt = 'https://vt.tiktok.com/ZSdc6Dht6/' //ganti aja pakai tiktok mu
 global.sc = 'https://youtu.be/lMcwJMp_0rM' //jngn ganti hargai creator
 global.ss = 'https://youtu.be/3m7tRD4RklM' //jngn ganti hargai creator
 global.sss = 'https://youtu.be/PzUH1ApMCig' //jngn ganti hargai creator
 global.yt = 'https://youtube.com/channel/UCeUvY_fIVSAaQ1n5SAylI-A'
-global.dana = '085828764046' //ganti pakai nomor dana mu
+global.dana = '089666747744' //ganti pakai nomor dana mu
 global.pulsa = '085828764046' //ganti pakai nomor pulsa mu
-global.gopay = '085828764046' //ganti pakai nomor Gopay mu
+global.gopay = '089666747744' //ganti pakai nomor Gopay mu
 
 //=============『 Info Bot 』=================//
-global.namebot = '❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪' //ganti jadiin nama bot mu
+global.namebot = 'Kurobu×' //ganti jadiin nama bot mu
 global.gc = 'https://chat.whatsapp.com/I8Q4oJVw8buHhIgMH5iVAv' //ganti pakai grup mu
 global.web = 'https://instagram.com/zalfapontianak' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://instagram.com/zalfapontianak' //ganti pakai Instagram mu
@@ -44,10 +44,10 @@ global.fotonya8 = 'https://telegra.ph/file/14ec0e0c93af4812d1fd7.jpg' //foto ses
 global.donasi = 'https://telegra.ph/file/3c4d1c12719a0dac73eeb.jpg' //ganti pakai poto payment atau apa
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
+global.wm = 'Kurobu-MD'
 global.watermark = wm
-global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜ𝙕𝙞𝙛𝙖𝙗𝙤𝙩𝙯_𝙊𝙛𝙛cོ1꧅'
-global.wm3 = 'ᯤ rozi 𝙾𝙵𝙲'
+global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜPrasz𝙊𝙛𝙛cོ1꧅'
+global.wm3 = 'ᯤ prasz 𝙾𝙵𝙲'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -57,8 +57,8 @@ global.eror = '_*🚨 Server Bot Sedang Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'Zifabotz'
-global.author = '@rozi'
+global.packname = 'Kurobubotz'
+global.author = '@Prasz'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
